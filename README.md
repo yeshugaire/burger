@@ -5,5 +5,6 @@
   - This app stores every burger in a database, whether devoured or not. 
 # Video/Screenshots showing how it works:
 - https://drive.google.com/file/d/1xY4EqqFONq-VYuI1kURLdOykwbYdIm5h/view 
+https://github.com/yeshugaire/burger/blob/master/screenshots/Capture.PNG
 
 
