@@ -13,7 +13,7 @@ else {
   port: 3306,
   host: "localhost",
   user: "root",
-  password: "Myra20!5",
+  password: "",
   database: "burgers_db"
 });
 
